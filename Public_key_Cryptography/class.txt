@@ -1,0 +1,26 @@
+Difference between banks and Blockchains?
+-->We have our own username and password to do transactions and view ourbalcnces.
+
+How people store crypto in blockchain?
+If we want to store crypto.We need to create our own public-private key pair.
+
+
+Public-Private KeyPair:
+A set of two keys which are present in asymetric cryptography.
+
+-->public Key:String that can share openly(its like an upi address)
+-->Private key:This key is a secret key (like a password of our internet banking)
+
+Bits and Bytes:
+Bits:
+-->A bit is the smallest unit  data in a computer.
+-->A bit can have only two values(0 and 1).
+
+Bytes:
+-->A group of 8 bits.
+-->The highest value of  byte when we convert to number is 255.
+
+While we are dealing with Web3;
+We use a datatype(uint8Array)
+
+
